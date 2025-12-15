@@ -44,7 +44,7 @@ This project allows users to browse flowers, manage their cart, and place orders
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rahat532/flowers_shop_PHP.git
+git clone https://github.com/rokayon/flowers_shop.git
 cd flower-shop
 
 css/ – Likely contains custom stylesheets (in addition to Tailwind).
@@ -92,7 +92,5 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
 👨‍💻 Author
-Abdullah Al Rahat
-💬 Let’s connect: www.linkedin.com/in/abdullah-al-rahat-5ab878316
-
-
+Rokonozzaman Ayon & Abdullah Al Rahat
+💬 Let’s connect: www.linkedin.com/in/rokonozzaman-ayon
